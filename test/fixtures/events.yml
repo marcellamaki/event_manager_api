@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  location: MyString
+  organizer: MyString
+  url: MyString
+  startTime: 2018-01-30 15:33:15
+  endTime: 2018-01-30 15:33:15
+  price: MyString
+  category: MyString
+  rsvp: 
+
+two:
+  name: MyString
+  location: MyString
+  organizer: MyString
+  url: MyString
+  startTime: 2018-01-30 15:33:15
+  endTime: 2018-01-30 15:33:15
+  price: MyString
+  category: MyString
+  rsvp: 
